@@ -100,6 +100,7 @@ const Projects = () => {
                     <div>
                       <p>{item.name}</p>
                       <a href={item.link}><button>VISIT</button></a>
+                      <a href="#">github</a>
                     </div>
                   )}
                 </div>
